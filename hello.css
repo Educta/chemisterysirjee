@@ -71,7 +71,7 @@ section h2
   top: 230px;
   right: 300px;
 left: 240px;
-  color: blue;
+  color: Yellow;
   font-size: 5.2em;
   text-transform: uppercase;
   font-weight: 800;
@@ -120,7 +120,7 @@ section img
   width: 140%;
   height: 140%;
   pointer-events: none;
-  filter: blur(6px);
+  filter: blur(0px);
   transition: 2s;
 
 }
