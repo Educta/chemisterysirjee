@@ -51,7 +51,7 @@ background: black;
   padding: 13px 23px;
   text-align: center;
   display: flex;
-  top: 150px;
+  top: 180px;
   right: 200px;
   text-decoration: none;
   border: 4px solid red;
@@ -68,11 +68,11 @@ box-sizing: border-box;
 section h2
 {
   position: absolute;
-  top: 200px;
+  top: 230px;
   right: 300px;
 left: 240px;
   color: blue;
-  font-size: 5em;
+  font-size: 5.2em;
   text-transform: uppercase;
   font-weight: 800;
   z-index: 2;
@@ -83,10 +83,10 @@ left: 240px;
 section h4
 {
   position: absolute;
-  top: 240px;
+  top: 270px;
   right: 620px;
   color: red;
-  font-size: 5em;
+  font-size: 5.2em;
   text-transform: uppercase;
   font-weight: 800;
   z-index: 2;
