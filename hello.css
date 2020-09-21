@@ -68,11 +68,11 @@ box-sizing: border-box;
 section h2
 {
   position: absolute;
-  top: 230px;
+  top: 200px;
   right: 300px;
 left: 240px;
   color: blue;
-  font-size: 5.5em;
+  font-size: 5em;
   text-transform: uppercase;
   font-weight: 800;
   z-index: 2;
@@ -83,10 +83,10 @@ left: 240px;
 section h4
 {
   position: absolute;
-  top: 270px;
+  top: 240px;
   right: 620px;
   color: red;
-  font-size: 5.5em;
+  font-size: 5em;
   text-transform: uppercase;
   font-weight: 800;
   z-index: 2;
@@ -120,7 +120,7 @@ section img
   width: 140%;
   height: 140%;
   pointer-events: none;
-  filter: blur(10px);
+  filter: blur(5px);
   transition: 2s;
 
 }
