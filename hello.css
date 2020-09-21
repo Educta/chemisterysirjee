@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&display=swap');
 .
 
 {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poller One', cursive;
-
+   font-family: 'Josefin Sans', sans-serif;
 }
 
 
@@ -71,7 +70,7 @@ section h2
   top: 230px;
   right: 300px;
 left: 240px;
-  color: Yellow;
+  color: Blue;
   font-size: 5.2em;
   text-transform: uppercase;
   font-weight: 800;
